@@ -3,4 +3,6 @@ Desenhos gráficos utilizando o scilab
 - Átomo;
 - Batman;
 - Casa;
-- Mikey
+- Mikey;
+- Pipa;
+- Dado.
